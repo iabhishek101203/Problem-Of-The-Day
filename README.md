@@ -20,14 +20,27 @@ Problem-Of-The-Day/
 📝 Problems Covered
 Week 1
 
-Count Univalue Subtrees
+1.Count Univalue Subtrees
 
-Word Search
+2.Word Search
 
-Equal Sum Partition
+3.Equal Sum Partition
 
-Clone Linked List
+4.Clone Linked List
 
-Flood Fill Algorithm
+5.Flood Fill Algorithm
 
-GCD of N Numbers
+6.GCD of N Numbers
+
+### 📅 Week 2
+
+7. Minimum Number of Perfect Squares to Sum to N (Facebook)
+8. Nim (Misère Version) — Determine if First Player Wins (Google)
+9. Maximum Path Sum Between Any Two Nodes in a Binary Tree (Google)
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Java
+- **Concepts Covered:** Trees, Graphs, Linked Lists, Dynamic Programming, Game Theory, Recursion.
