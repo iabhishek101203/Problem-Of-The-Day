@@ -34,11 +34,17 @@ Week 1
 
 ### 📅 Week 2
 
-7. Minimum Number of Perfect Squares to Sum to N (Facebook)
-8. Nim (Misère Version) — Determine if First Player Wins (Google)
-9. Maximum Path Sum Between Any Two Nodes in a Binary Tree (Google)
+7. Minimum Number of Perfect Squares to Sum to N
+8. Nim (Misère Version) — Determine if First Player Wins
+9. Maximum Path Sum Between Any Two Nodes in a Binary Tree
 
 ---
+
+### 📅 Week 3
+
+10. Prime Duplicates
+11. Alternating Add and Subtract
+12. Validate Number in a String
 
 ## 🛠 Tech Stack
 
