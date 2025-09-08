@@ -46,7 +46,19 @@ Week 1
 11. Alternating Add and Subtract
 12. Validate Number in a String
 
+### 📅 Week 4
+
+13. Majority Element (MongoDB)
+14. Reverse Words with Delimiters (Facebook)
+15. Even Tree (Adobe, DFS & Subtree Partitioning)
+
 ## 🛠 Tech Stack
 
 - **Language:** Java
 - **Concepts Covered:** Trees, Graphs, Linked Lists, Dynamic Programming, Game Theory, Recursion.
+
+## 🔗 References
+
+- [LeetCode Problems](https://leetcode.com/problemset/all/)
+- [GeeksforGeeks Practice](https://practice.geeksforgeeks.org/)
+- [HackerRank Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
