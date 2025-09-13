@@ -1,4 +1,4 @@
-# Problem-Of-The-Day
+# Problem-Of-The-week
 
 This repository contains my daily problem-solving practice in Java.
 Each problem has:
@@ -51,6 +51,14 @@ Week 1
 13. Majority Element (MongoDB)
 14. Reverse Words with Delimiters (Facebook)
 15. Even Tree (Adobe, DFS & Subtree Partitioning)
+
+📅 Week 5
+
+16.First Missing Positive Integer (Stripe)
+
+17.Swap Even and Odd Bits (Cisco)
+
+18.Autocomplete System (Twitter)
 
 ## 🛠 Tech Stack
 
