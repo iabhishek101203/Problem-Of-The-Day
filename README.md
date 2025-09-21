@@ -54,11 +54,17 @@ Week 1
 
 📅 Week 5
 
-16.First Missing Positive Integer (Stripe)
+16. First Missing Positive Integer (Stripe)
 
-17.Swap Even and Odd Bits (Cisco)
+17. Swap Even and Odd Bits (Cisco)
 
-18.Autocomplete System (Twitter)
+18. Autocomplete System (Twitter)
+
+📅 Week 6
+
+13. Knight’s Survival Probability (Two Sigma)
+14. Bitwise AND of a Range (Yahoo)
+15. Longest Increasing Subsequence (LIS) (Microsoft)
 
 ## 🛠 Tech Stack
 
