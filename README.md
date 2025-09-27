@@ -66,6 +66,13 @@ Week 1
 14. Bitwise AND of a Range (Yahoo)
 15. Longest Increasing Subsequence (LIS) (Microsoft)
 
+📅week 7
+
+16. Dropbox – Concatenation of All Words.
+17. Apple – Fixed Point in a Sorted Array.
+18. Spotify – Minimum Radio Broadcast Range.
+19. Twitter/PayPal – The 24 Game.
+
 ## 🛠 Tech Stack
 
 - **Language:** Java
